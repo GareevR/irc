@@ -1,2 +1,2 @@
-# irc
+# IRC
 IRC (Internet Relay Chat)
